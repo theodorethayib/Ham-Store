@@ -8,3 +8,5 @@ Frontend:
 1. CD into frontend directory
 2. npm install
 3. npm start
+
+(backend runs on port 3000, frontend on port 5000)
