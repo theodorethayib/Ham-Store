@@ -1,0 +1,7 @@
+.itemframe {
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 25px;
+    border-color: #333;
+    background: #000;
+}
