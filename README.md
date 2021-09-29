@@ -9,4 +9,4 @@ Frontend:
 2. npm install
 3. npm start
 
-(backend runs on port 3000, frontend on port 5000)
+(backend runs on port 5000, frontend on port 3000)
